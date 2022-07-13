@@ -2,7 +2,7 @@
   "name": "nova-reddit-viewer",
   "version": "1.0.0",
   "description": "A Reddit Viewer like Apollo or the Reddit APp",
-  "main": "index.js",
+  "main": "./src/js/index.js",
   "author": "Morgan Daley",
   "license": "ISC",
   "private": true,
